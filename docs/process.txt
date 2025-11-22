@@ -1,0 +1,8 @@
+Fine tuning a model
+1. Library Discussion
+2. Personal Dataset Preparation
+3. Tokenizer + Transformers
+4. Model
+5. Attention Layer Breakdown
+6. Training via STF
+7. Inference
